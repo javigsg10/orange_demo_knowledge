@@ -73,3 +73,70 @@ You no longer need to know how to do these tasks or have the tools. With your Or
 - **Adjusting, Changing, and Replacing Taps:** Skilled services for adjusting, changing, or replacing taps.
 - **Sealing Joints of Bathtubs, Showers, and Sinks:** Ensuring water-tight seals for your bathroom fixtures.
 - **Installing Lamps, Wall Lights, Outlets, Surface Switches, and Conduits, as well as Reviewing Electrical Panels and Installations:** Safe and professional installation of various electrical components and thorough checks of electrical panels and installations.
+
+  
+# Scope
+The scope of the insurance coverage is limited to the home specified in the particular conditions, except for the coverage of robbery outside the home, which extends worldwide; for the civil liability guarantee, which extends worldwide except for the USA, Canada, Mexico, and Puerto Rico; and for the coverage of goods during travel and temporary relocations, which extends worldwide.
+
+## Obligations
+The policyholder must provide information about the characteristics of the risk to be insured and communicate any changes during the life of the insurance. Additionally, in the event of an incident covered by the insurance, and when a claim for compensation is made in accordance with the contract, the policyholder must provide all documentation and information related to the circumstances and consequences of the incident.
+
+## Payment
+The policyholder must pay the insurance as indicated in the documentation provided along with this document, which will be included in the contract, and according to the payment methods offered by the Company and the agreed installment plan.
+
+## Duration
+The duration of the contract, including both the start and expiration dates of the coverage, is detailed in the budget document provided to the customer along with this prior information document.
+
+## Contract Cancellation
+The policyholder may object to the renewal of the contract, meaning they may cancel it, by providing written notice to the Insurer, which must be made at least one month in advance of the end of the current insurance period.
+
+## I. Legal Regulation
+### Insurance entity and authority supervising its activity
+Zurich Insurance Europe AG is an insurance company registered in Germany, with its headquarters at Platz der Einheit 2, 60327, Frankfurt, Germany. It is supervised and registered by the Federal Financial Supervisory Authority (BaFin) and authorized to operate in Spain under the right of establishment through its branch Zurich Insurance Europe AG, Branch in Spain.  
+Zurich Insurance Europe AG, Branch in Spain, with Tax ID W0072130H, and with headquarters at Paseo de la Castellana, 81, 22nd floor, 28046 Madrid, is registered in the Administrative Register of the Directorate General of Insurance and Pension Funds under code E0189.  
+In application of Article 123 of Royal Decree 1060/2015 of November 20, on the regulation, supervision, and solvency of insurance and reinsurance entities, it is reported that, in the event of the insurer's liquidation, Spanish liquidation regulations will not apply.
+
+### Applicable Legislation
+- Insurance Contract Law 50/80, of October 8.
+- Law 20/2015, of July 14, on the Regulation, Supervision, and Solvency of Insurance and Reinsurance Entities.
+- Law 7/2004, of October 29, regarding the regulation of the Legal Statute of the Insurance Compensation Consortium.
+- Any other regulation that may apply during the term of the policy.
+
+### Complaints and Claims
+Complaints and claims may be directed to the Company’s Customer Defense Service in accordance with the procedure established in the Customer Defense Regulation provided by the Company, which is available on our website at [www.zurich.es/defensacliente](www.zurich.es/defensacliente). This Regulation complies with the requirements of Ministerial Order ECO 734/2004 and any regulations that replace or amend it.  
+The Customer Defense Service regulated in the aforementioned Regulation will issue a resolution within the maximum period established therein, starting from the submission of the complaint or claim. The complainant may, after this period has expired, contact the Complaints Service of the Directorate General of Insurance and Pension Funds, if applicable.
+
+### Distance Contract Cancellation Clause
+In the case of contracts concluded through distance communication techniques, the Policyholder, when acting for purposes unrelated to their business or professional activity, will have a period of fourteen calendar days from the conclusion of the contract to withdraw from the distance contract, provided that the insured event has not occurred, without giving reasons and without any penalty, in accordance with Article 10 of Law 22/2007 on the distance marketing of financial services to consumers. To exercise this right, the Policyholder must send a communication to the insurance entity. The Company reserves the right to retain the portion of the premium proportional to the coverage period. The right of withdrawal will not apply to mandatory insurance, travel or luggage policies lasting less than one month, or for policies whose effects expire before the fourteen-day period.
+
+### Personal Data Protection
+Data Controller: Zurich Insurance Europe AG, Branch in Spain
+
+#### For individuals
+#### Purposes of data processing:
+- **For contract management**: Personal data will be included in files of Zurich Insurance Europe AG, Branch in Spain, and its parent company Zurich Insurance Europe AG. The purpose of these files is to conclude, maintain, and control the insurance contract, conduct statistical, quality, or technical analysis studies, and manage co-insurance and reinsurance, if applicable. The parent company will also process data for anti-money laundering and terrorism financing purposes.  
+- **Legal basis**: Execution of the contract and the relevant insurance regulations, mainly the Insurance Contract Law or the Law on the Regulation, Supervision, and Solvency of Insurance Entities, and anti-money laundering and terrorism financing regulations.
+- **Fraud prevention**: These data will be used for fraud prevention.  
+- **Legal basis**: Legitimate interest.
+- **Price adjustment**: To offer a price tailored to your profile before subscribing to the insurance, the Insurer may consult the Asnef file, owned and managed by Asnef-Equifax, Solvency and Credit Information Services, S.L.
+- **Legal basis**: Legitimate interest based on credit information system regulations.
+
+#### Additional processing with your consent:
+- Sending commercial communications by electronic means, including SMS, email, or equivalent communication methods, offering, promoting, and contracting the Company’s products and services and additional services included in the contracted insurance (such as Home Assistance, IT Assistance, etc.).
+- Sending commercial communications by mail and phone calls for both its products and those of the Group, such as Zurich Vida or other legally related companies, as indicated at [www.zurich.es/rgpd](www.zurich.es/rgpd).
+- Profiling or segmentation based on your data or data derived from the use of contracted products.
+
+#### For legal entities
+- The Representative (individual) of the Policyholder is informed that their personal data provided for executing this insurance contract will be processed by the Insurer for the purpose of managing the contractual relationship. The legal basis for this processing is the execution of the insurance contract.
+- The personal data collected will be retained while the insurance contract is in force. Once the relationship ends, the data will be blocked for the prescription periods established by the applicable legislation.
+
+### II. What should I do if I have a claim?
+You can call us at 900 90 90 60. 
+- Use all means at your disposal to mitigate the consequences of the contingency.
+- Carefully read the “Insurance Object” section of your policy and check if the occurred incident is covered.
+- Contact Zurich as soon as possible through 900 90 90 60 and provide detailed information about the origin and consequences of the claim, as well as the third party responsible, if any.
+- If you have been robbed, vandalized, or suffered expropriation, report it to the relevant authority (police or judicial) and prepare a list of the stolen goods.
+
+### III. Domestic Emergency
+If you have a domestic emergency, call 900 90 90 60, and Zurich will quickly connect you with a technician to solve the problem.
+
